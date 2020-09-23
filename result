@@ -1,0 +1,5 @@
+WEBHOOK
+{'ok': True, 'result': [{'update_id': 140205063, 'message': {'message_id': 97, 'from': {'id': 1107873730, 'is_bot': False, 'first_name': 'Hemendra', 'last_name': 'Tripathi', 'username': 'The_Emerald_Arrow', 'language_code': 'en'}, 'chat': {'id': 1107873730, 'first_name': 'Hemendra', 'last_name': 'Tripathi', 'username': 'The_Emerald_Arrow', 'type': 'private'}, 'date': 1600756156, 'text': 'dc'}}]}
+
+GET_UPDATES
+{'update_id': 140205061, 'message': {'message_id': 93, 'from': {'id': 1107873730, 'is_bot': False, 'first_name': 'Hemendra', 'last_name': 'Tripathi', 'username': 'The_Emerald_Arrow', 'language_code': 'en'}, 'chat': {'id': 1107873730, 'first_name': 'Hemendra', 'last_name': 'Tripathi', 'username': 'The_Emerald_Arrow', 'type': 'private'}, 'date': 1600756014, 'text': 'lolol'}}
